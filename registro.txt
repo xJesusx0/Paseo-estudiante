@@ -1,0 +1,132 @@
+===============
+Cantidad de meses: 6
+Cantidad de estudiantes: 5
+===============
+Nombres
+===============
+Jesus
+Andres
+Matias
+Alberto
+Daniel
+===============
+Meses
+===============
+julio
+agosto
+septiembre
+octubre
+noviembre
+diciembre
+===============
+Ahorros
+===============
+Los ahorros en julio de Jesus son: 50000.0
+Los ahorros en julio de Andres son: 30000.0
+Los ahorros en julio de Matias son: 30000.0
+Los ahorros en julio de Alberto son: 20000.0
+Los ahorros en julio de Daniel son: 80000.0
+===============
+Los ahorros en agosto de Jesus son: 40000.0
+Los ahorros en agosto de Andres son: 40000.0
+Los ahorros en agosto de Matias son: 50000.0
+Los ahorros en agosto de Alberto son: 10000.0
+Los ahorros en agosto de Daniel son: 80000.0
+===============
+Los ahorros en septiembre de Jesus son: 60000.0
+Los ahorros en septiembre de Andres son: 60000.0
+Los ahorros en septiembre de Matias son: 50000.0
+Los ahorros en septiembre de Alberto son: 50000.0
+Los ahorros en septiembre de Daniel son: 60000.0
+===============
+Los ahorros en octubre de Jesus son: 50000.0
+Los ahorros en octubre de Andres son: 80000.0
+Los ahorros en octubre de Matias son: 40000.0
+Los ahorros en octubre de Alberto son: 50000.0
+Los ahorros en octubre de Daniel son: 20000.0
+===============
+Los ahorros en noviembre de Jesus son: 40000.0
+Los ahorros en noviembre de Andres son: 20000.0
+Los ahorros en noviembre de Matias son: 40000.0
+Los ahorros en noviembre de Alberto son: 40000.0
+Los ahorros en noviembre de Daniel son: 20000.0
+===============
+Los ahorros en diciembre de Jesus son: 50000.0
+Los ahorros en diciembre de Andres son: 40000.0
+Los ahorros en diciembre de Matias son: 60000.0
+Los ahorros en diciembre de Alberto son: 80000.0
+Los ahorros en diciembre de Daniel son: 10000.0
+===============
+Ahorros por mes
+===============
+El mayor ahorro en julio fue de: 80000.0
+El menor ahorro en julio fue de: 20000.0
+===============
+El mayor ahorro en agosto fue de: 80000.0
+El menor ahorro en agosto fue de: 10000.0
+===============
+El mayor ahorro en septiembre fue de: 60000.0
+El menor ahorro en septiembre fue de: 50000.0
+===============
+El mayor ahorro en octubre fue de: 80000.0
+El menor ahorro en octubre fue de: 20000.0
+===============
+El mayor ahorro en noviembre fue de: 40000.0
+El menor ahorro en noviembre fue de: 20000.0
+===============
+El mayor ahorro en diciembre fue de: 80000.0
+El menor ahorro en diciembre fue de: 10000.0
+===============
+Ahorros por estudiante
+===============
+El menor ahorro de Jesus fue de: 40000.0
+El mayor ahorro de Jesus fue de: 60000.0
+===============
+El menor ahorro de Andres fue de: 20000.0
+El mayor ahorro de Andres fue de: 80000.0
+===============
+El menor ahorro de Matias fue de: 30000.0
+El mayor ahorro de Matias fue de: 60000.0
+===============
+El menor ahorro de Alberto fue de: 10000.0
+El mayor ahorro de Alberto fue de: 80000.0
+===============
+El menor ahorro de Daniel fue de: 10000.0
+El mayor ahorro de Daniel fue de: 80000.0
+===============
+Promedios por estudiante
+===============
+El promedio de Jesus fue de: 48333.333333333336
+El promedio de Andres fue de: 45000.0
+El promedio de Matias fue de: 45000.0
+El promedio de Alberto fue de: 41666.666666666664
+El promedio de Daniel fue de: 45000.0
+===============
+Promedios por estudiante ordenado
+===============
+41666.666666666664
+45000.0
+45000.0
+45000.0
+48333.333333333336
+===============
+Promedios por mes
+===============
+El promedio en julio fue de: 42000.0
+El promedio en agosto fue de: 44000.0
+El promedio en septiembre fue de: 56000.0
+El promedio en octubre fue de: 48000.0
+El promedio en noviembre fue de: 32000.0
+El promedio en diciembre fue de: 48000.0
+===============
+Promedios por mes ordenado
+===============
+32000.0
+42000.0
+44000.0
+48000.0
+48000.0
+56000.0
+===============
+Acumulado 1350000.0
+Promedio general 45000.0
